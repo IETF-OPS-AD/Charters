@@ -1,0 +1,64 @@
+The purpose of the GROW working group is to consider the operational problems
+associated with the global IP routing system (both IPv4 and IPv6), including
+but not limited to default-free zone routing table growth, forwarding tables
+growth, effects of the interactions between interior and exterior routing protocols,
+and effects of IPv4/IPv6 address allocation policies on the global routing system. 
+
+The working group will document the operational aspects of measurement, monitoring,
+policy, operational global routing system security, or safe
+default behavior of global IP routing protocol implementations and deployments.
+The GROW working group will also develop and increase awareness to mitigations to prevent
+malpractice (e.g., route leaks) in the global routing system.
+
+The GROW working group will develop data models and building blocks
+for automating the operation of the global routing system.
+
+The GROW working group will collaborate with other working groups, primarily IDR working group,
+that are developing solutions for the global IP routing system. When solicited, the working group
+will review the solutions being developed for the global routing system by these other
+working groups and provide inputs related to operational implications. The working group will also
+provide inputs for addressing operational and routing security requirements of
+Internet-connected networks, and, where appropriate, recommend work to be taken up by those working groups.
+Likewise, the working group will solicit inputs for its chartered work from those other working groups
+to strive for an optimal balance between objectives related to ease of operations and deployability,
+sustain scaling, enhance robustness, and optimize performance.
+
+Agenda time at GROW sessions at IETF meetings should allow for presentations
+and discussions of operator issues and experience, and other work within scope for
+the working group.
+
+The current GROW working group objectives are:
+
+* Present and discuss operational issues faced by the global routing system.
+* Document common terminology relevant to the maintenance and operation
+  of the global routing system.
+* Document Best Current Practices for operations of the global routing system.
+* Document the operational aspects of securing the Internet routing system.
+* Provide guidance and recommendations for operating the global routing system.
+* Standardize YANG data models and automation building blocks related
+  to the operations of global routing system.
+* Document operational aspects of IP interconnection.
+* Provide documentation to assist in preventing malpractice in the
+  global routing system.
+* Determine the effect of IGP extensions on the stability of the global
+  routing system.
+* Provide maintenance for the BGP Monitoring Protocol (BMP), including fixes,
+  extensions, and future versions.
+* Provide maintenance for the Multi-Threaded Routing Toolkit (MRT)
+  Routing Information Export Format.
+
+SIDR operations related work will occur in SIDROPS working group.
+
+# Milestones
+
+* Dec 2026	Submit Peering API to the IESG
+* Dec 2025	Submit Near Real Time Mirroring (NRTM) version 4 to the IESG
+* Nov 2025	Submit Updated BGP Operations and Security to the IESG
+* Sep 2025	Submit a YANG Data Model for BMP to the IESG
+* Sep 2025	Submit TCP-AO Protection for BMP to the IESG
+* Aug 2025	Submit BMP Extensions to the IESG
+* Jul 2025	TLV support for BMP Route Monitoring and Peer Down Messages" to IESG
+* Jun 2025	Submit New BGP Monitoring Protocol (BMP) Statistics Types to the IESG
+* Jun 2025	Submit AS Path Prepending to the IESG
+* Jun 2025	Submit a Recommendation to avoid use of BGP Extended Communities at Internet Exchange Route Servers to the IESG
+* Jun 2025	Submit a YANG Data Model for BGP Communities to the IESG
