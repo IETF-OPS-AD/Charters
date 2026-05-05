@@ -1,23 +1,22 @@
-The Registration Protocols Extensions working group (REGEXT) is chartered to coordinate and standardize extensions to the Extensible Provisioning Protocol (EPP) and the Registration Data Access Protocol (RDAP).
+The Extensible Provisioning Protocol (EPP, STD 69) is an application-layer client-server protocol for the provisioning and management of objects stored in a shared central repository. The Registration Data Access Protocol (RDAP, STD 95) is a protocol for retrieving registration data and metadata from both Domain Name Registries (DNRs) and Regional Internet Registries (RIRs).
 
-The Extensible Provisioning Protocol (EPP, STD 69) is the standard application-layer client-server protocol for the provisioning and management of objects stored in a shared central repository.
+The Registration Protocols Extensions Working Group (REGEXT WG) is responsible for maintenance and operations of both EPP and RDAP. Also, REGEXT provides practitioners, domain registries and registrars, number resources registries, and other interested parties who wish to share operational experience, challenges, and lessons learned, a venue to engage in discussions around the operational requirements of EPP and RDAP deployments.
 
-The Registration Data Access Protocol (RDAP, STD 95) is the standard for retrieving registration data and metadata from both Domain Name Registries (DNRs) and Regional Internet Registries (RIRs). 
+## Work Scope
 
-The working group may publish proposed standard and experimental extensions to EPP and RDAP.
-The working group may publish informational and best current practice documents for EPP and RDAP.
-The working group may revise the registration procedures for the EPP and RDAP registries.
-The working group will discuss new registrations with the designated experts for the EPP and RDAP registries.
-When the working group is closed, the mailing list will remain open and available for the use of the expert review process.
+The WG is responsible for specifying updates and extensions to these protocols, documenting operational issues and specifying mitigations to those, providing guidance for defining extensions, and elaborating deployment recommendations. Also, the WG is responsible for maintenance of the registration procedures for the EPP and RDAP IANA registries. 
 
-A primary goal of the working group is to ensure the extensions are easily discoverable and understood, and to avoid duplicate effort that could harm interoperability.
+Additionally, the WG will publish specifications addressing interoperability issues that are adjacent to EPP and RDAP. This includes, but is not limited to:
 
-In addition to publishing extensions, the working group may publish proposed standards addressing interoperability issues that are adjacent to EPP and RDAP.
+* Data formats for exchanges between registration entities that need insertion or extraction using EPP or extraction using RDAP.
+* New application transport mappings for EPP following relevant and appropriate IETF standards to address operational gaps for which at least one domain registry and at least one domain registrar have made a commitment to deploy.
 
-For example:
+The WG is responsible for the maintenance of RFC 3735 (Guidelines for Extending the Extensible Provisioning Protocol (EPP)), including progressing it from Informational to Best Current Practice.
 
-* Data formats for exchanges between registration entities that need insertion or extraction using EPP, or extraction using RDAP.
+The WG may publish documents in all tracks.
 
-*  The specification of application transport protocols for EPP based on existing RFCs, with proper review and advice from the relevant protocol working groups.
+## Liaison and Coordination
 
-The working group does not have fixed deliverables, as it is a maintenance group that publishes extensions as they are needed by the RDAP and EPP communities.
+The WG will follow existing BCPs (mainly BCP 56 on Building Protocols with HTTP) and will seek advice from the WIT area on HTTP and transport matters, in particular. Likewise, the WG will sollicit feedback from other relevant WGs (e.g., DNSOP and SIDROPS) as needed.
+
+The WG will discuss revisions of EPP and RDAP registration procedures with past and current Designated Experts for such registries to take into account their experience.
