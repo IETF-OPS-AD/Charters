@@ -19,7 +19,14 @@ The team will be selected to ensure complementarity, diversity, and wide topics 
 Cheers,
 Andy & Med
 
----Actions:
+---Actions (for out internal use)
 
 * Andy: ART, SEC, INT
 * Med: OPS, RTG, WIT
+
+---Candidate topics for future sessions
+
+* EVPN: Theory and real deployment samples
+* AIDC: use of IETF technologies in building new DCs (MSDCs, Traffic matrix, extensions, routing, addressing, etc.)
+* Network Telemetry: dive into technical toolkit (BMP, IPFIX, gNMI, YP, etc.)
+* YANG
