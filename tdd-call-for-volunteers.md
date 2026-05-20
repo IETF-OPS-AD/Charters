@@ -14,7 +14,7 @@ the following:
 
 If you are interested to join this team, please drop us an email. Please indicate the area(s) that you can cover.
 
-The team will be selected to ensure complementarity, diversity, and wide topic coverage.
+The team will be selected to ensure complementarity, diversity, and wide topics coverage.
 
 Cheers,
 Andy & Med
