@@ -4,14 +4,15 @@ The Registration Protocols Extensions Working Group (REGEXT WG) is responsible f
 
 ## Work Scope
 
-The WG is responsible for specifying updates and extensions to these protocols, documenting operational issues and specifying mitigations to those, providing guidance for defining extensions, and elaborating deployment recommendations. Also, the WG is responsible for maintenance of the registration procedures for the EPP and RDAP IANA registries. 
+The WG is responsible for specifying updates and extensions to these protocols, documenting operational issues and specifying mitigations to those, providing guidance for defining extensions, and elaborating deployment recommendations. 
 
-Additionally, the WG will publish specifications addressing interoperability issues that are adjacent to EPP and RDAP. This includes in particular:
+In addition, the WG will publish documents addressing interoperability issues related to EPP and RDAP. This includes, in particular:
 
 * Data formats for exchanges between registration entities that need insertion or extraction using EPP or extraction using RDAP.
 * New application transport mappings for EPP following relevant and appropriate IETF standards to address operational gaps for which at least one domain registry and at least one domain registrar have made a commitment to deploy.
+* Best practices for the deployment and operation of EPP and RDAP, including security and scalability considerations.
 
-The WG is responsible for the maintenance of RFC 3735 (Guidelines for Extending the Extensible Provisioning Protocol (EPP)), including progressing it from Informational to Best Current Practice.
+The WG is responsible for maintenance of the registration procedures for EPP and RDAP IANA registries. Also, the WG is responsible for the maintenance of RFC 3735 (Guidelines for Extending the Extensible Provisioning Protocol (EPP)), including progressing it from Informational to Best Current Practice. 
 
 The WG may publish documents in all tracks.
 
