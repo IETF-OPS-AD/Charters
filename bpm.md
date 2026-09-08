@@ -1,4 +1,4 @@
-# BMP: IPPM and BMWG Joint WG Charter
+# BPM: IPPM and BMWG Joint WG Charter
 
 ## Scope
 
