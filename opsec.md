@@ -33,3 +33,10 @@ While the principal input of the working group is operational experience and nee
 The OPSEC WG is will not write or modify protocols. New protocol work must be addressed through a working group chartered for that work, or via one of the individual submission processes. The OPSEC WG may take on documents related to the practices of using such work.
 
 The OPSEC WG will not serve as a venue for raw threat intelligence sharing or research that does not directly inform protocol design.
+
+## Milestones
+
+| Date     | Milestone                                                                  | Associated documents                        | Intended Track        |
+|----------|----------------------------------------------------------------------------|---------------------------------------------|:---------------------:|
+| xx 2026 | Submit xxx to the IESG |               | tbc       |
+| xx 2026 | Submit xxx to the IESG |               | tbc       |
