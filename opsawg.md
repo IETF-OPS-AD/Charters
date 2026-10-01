@@ -4,9 +4,9 @@ The Operations and Management Area receives occasional proposals for the develop
 * Find a more appropriate WG in the IETF for the work if OPSAWG is not the right forum.
 * Help collect work items and gauge interest to determine whether a new WG should be chartered.
 
-Examples include the advancement of documents on the Standards Track, application statements, maintenance, and minor extensions of documents that were developed in concluded WGs (e.g., TACACS+, IPFIX) and tools for the Operations and Management Area (e.g., PCAP). Development of IPFIX entities and similar manageability aspects covering technologies maintained by an existing WG are out of scope.
+Examples include the advancement of documents on the Standards Track, application statements, maintenance, and minor extensions of documents that were developed in concluded WGs (e.g., TACACS+, IPFIX) and tools for the Operations and Management Area (e.g., PCAP). Specifically, development of IPFIX entities covering technologies maintained by an existing WG are out of scope except when manageability aspects are not covered by the charters of these WGs.
 
-The WG is also responsible for developing and maintaining best practices and guidelines for considering Operations and Management in IETF specifications. Likewise, the WG is responsible for specifying experimental mechanisms for publishing and maintaining YANG modules outside the RFC series. This work will not alter the Internet Standards Process (BCP 9).
+The WG is also responsible for developing and maintaining best practices and guidelines for considering Operations and Management in IETF. Likewise, the WG is responsible for specifying experimental mechanisms for publishing and maintaining YANG modules outside the RFC series. This work will not alter the Internet Standards Process (BCP 9).
 
 Network and service YANG modules developed by OPSAWG are maintained by ONSEN WG. Future work on network or service YANG modules belong to ONSEN WG.
 
