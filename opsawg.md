@@ -16,4 +16,4 @@ The OPSAWG will undertake only work items that have been proven to have at least
 ## To Do
 
 * Clean-up current milestones
-* Add a milestone for a milestone for T+/SSH.
+* Add a milestone for T+/SSH.
