@@ -8,7 +8,7 @@ The scope of the OPSEC WG includes the protection and secure operation of the fo
 
 ## Method
 
-The WG provides a standing venue for operational security experts, implementers, operators, and protocol developers to discuss, identify, measure, and document operational mitigations to current and emerging threats to inform protocol design and deployment and to inform protocol design, implementation, deployment, migration, and deprecation.
+The WG provides a standing venue for operational security experts, implementers, operators, and protocol developers to discuss, identify, measure, and document operational mitigations to current and emerging threats to inform protocol design, implementation, deployment, migration, and deprecation.
 
 The work may result in the publication of Informational or Best Current Practices (BCP) RFCs. Taxonomy or problem statement documents may provide a basis for such documents.
 
