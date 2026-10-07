@@ -1,6 +1,6 @@
 ## Goals
 
-The OPSEC WG will document operational issues and best current practices with regard to network security. In particular, the WG will clarify the rationale of supporting current operational practices, addressing gaps in currently understood best practices, and clarifying liabilities inherent in security practices where they exist.
+The OPSEC WG will document operational issues and best current practices with regard to network security. In particular, the WG will clarify the rationale for supporting current operational practices, addressing gaps in currently understood best practices, and clarifying liabilities inherent in security practices where they exist.
 
 ## Scope
 
@@ -29,7 +29,7 @@ While the principal input of the WG is operational experience and needs, the out
 
 ## Non-Goals
 
-The OPSEC WG will not write or modify protocols. New protocol work must be addressed through a WG chartered for that work or via one of the individual submission processes. However, the OPSEC WG may take on documents related to the practices of using existing, extended, or new protocls.
+The OPSEC WG will not write or modify protocols. New protocol work must be addressed through a WG chartered for that work or via one of the individual submission processes. However, the OPSEC WG may take on documents related to the practices of using existing, extended, or new protocols.
 
 The OPSEC WG will not serve as a venue for raw threat intelligence sharing or for research that does not directly inform protocol design.
 
@@ -37,10 +37,10 @@ The OPSEC WG will not serve as a venue for raw threat intelligence sharing or fo
 
 | Date     | Milestone                                                                  | Associated documents                        | Intended Track        |
 |----------|----------------------------------------------------------------------------|---------------------------------------------|:---------------------:|
-| March 2027 | WG Adoption of "Security Operations Fundamentals and Guidance" document |               | Informational or BCP       |
-| July 2027 | WG Adoption of "Best Practices for Coordinated Vulnerability Disclosure Processes" document  |               | Informational or BCP       |
-| July 2027 | WG Adoption of "A Taxonomy of Current Threats" document |               | Informational       |
-| March 2028 | Submission of "Security Operations Fundamentals and Guidance" document to the IESG for publication |               | Informational or BCP       |
-| July 2028 | Submission of "Best Practices for Coordinated Vulnerability Disclosure Processes" document to the IESG for publication  |               | Informational or BCP       |
-| Dec 2028 | Submission of "A Taxonomy of Current Threats" document to the IESG for publication |               | Informational       |
+| March 2027 | WG Adoption of "Security Operations Fundamentals and Guidance" document(s) |               | Informational or BCP       |
+| July 2027 | WG Adoption of "Best Practices for Coordinated Vulnerability Disclosure Processes" document(s)  |               | Informational or BCP       |
+| July 2027 | WG Adoption of "A Taxonomy of Current Threats" document(s) |               | Informational       |
+| March 2028 | Submission of "Security Operations Fundamentals and Guidance" document(s) to the IESG for publication |               | Informational or BCP       |
+| July 2028 | Submission of "Best Practices for Coordinated Vulnerability Disclosure Processes" document(s) to the IESG for publication  |               | Informational or BCP       |
+| Dec 2028 | Submission of "A Taxonomy of Current Threats" document(s) to the IESG for publication |               | Informational       |
 
