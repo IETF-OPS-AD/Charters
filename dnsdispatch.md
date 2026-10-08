@@ -16,6 +16,7 @@ DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the pr
 ## Mode of Operation for Plenary DNSDISPATCH Sessions
 
 - A DNSDISPATCH session may include up to 3 items.
+- Chairs will rank received requests by relevance/priority.
 - Chairs provide a reason when rejecting a request.
 - Proponents of an item have 6 minutes to explain, then followed by 4 minutes of feedback.
 - Chairs will summarize the main feedback and gauge consensus.
