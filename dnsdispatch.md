@@ -11,7 +11,7 @@ DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the pr
 ## Prerequisites
 
 - Presenters are required to use this [Template]().
-- Recommended: Presenters should generate useful discussion on the DNSOP mailing list before filing a DNSDISPATCH request.
+- Recommended: Presenters should generate useful discussion on the DNSOP mailing list before filling a DNSDISPATCH request.
 
 ## Mode of Operation for Plenary DNSDISPATCH Sessions
 
