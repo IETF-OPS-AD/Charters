@@ -8,8 +8,6 @@ Examples include the advancement of documents on the Standards Track, applicatio
 
 The WG is also responsible for developing and maintaining best practices and guidelines for considering Operations and Management in IETF. Likewise, the WG is responsible for specifying experimental mechanisms for publishing and maintaining YANG modules outside the RFC series. This work will not alter the Internet Standards Process (BCP 9).
 
-Network and service YANG modules developed by OPSAWG are maintained by ONSEN WG. Future work on network or service YANG modules belong to ONSEN WG.
-
 The OPSAWG will undertake only work items that have been proven to have at least a reasonable level of interest from the operators, vendor, and user community and have a committed number of editors and reviewers. It is not within the scope of the OPSAWG to pick up any failed work of other OPS WG.
 
 
