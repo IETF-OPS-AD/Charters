@@ -6,6 +6,8 @@ The OPSEC WG will document operational issues and best current practices with re
 
 The scope of the OPSEC WG includes the protection and secure operation of the forwarding, control, and management planes, and practices that support this. Documentation of operational issues, including those arising from the deployment, migration, coexistence, and deprecation of security mechanisms and protocols is in scope. Likewise, revision of existing operational security practices documents and proposals for new approaches and processes to solve operational challenges related to network security are in scope. The WG will also provide guidelines for covering security operations considerations.
 
+Operational network security topics that fall within the scope of other WGs should be addressed in those WGs. For example, BGPsec operational considerations are covered in IDR. SIDROPS is responsible for the maintenance and operational considerations of all Secure Inter-Domain Routing (SIDR) components, except BGPsec. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
+
 ## Method
 
 The WG provides a standing venue for operational security experts, implementers, operators, and protocol developers to discuss, identify, measure, and document operational mitigations to current and emerging threats to inform protocol design, implementation, deployment, migration, and deprecation.
