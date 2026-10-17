@@ -34,6 +34,18 @@ DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the pr
 
 ## Coordination
 
-Other IETF areas and IETF-maintained technologies may have their own process for considering new work. While DNSOP is the main DISPATCH home for new DNS-related proposals, some of these proposals may involve other technologies that falls under areas/groups. DNSOP Chairs will coordinate and liaise with these areas/groups when processing such proposals.
+Other IETF areas and IETF-maintained technologies (see below) may have their own process for considering new work. While DNSOP is the main DISPATCH home for new DNS-related proposals, some of these proposals may involve other technologies that falls under areas/groups. DNSOP Chairs will coordinate and liaise with these areas/groups when processing such proposals.
 
 The DNS directorate is a resource available to the DNSDISPATCH working group, just as it is available to other working groups.
+
+# Other IETF DISPATCH Homes
+
+Dispatch functions for other IETF areas and technologies are handled by the following WG:
+
+* General area: [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/) WG
+* Internet of Things (ToT) topics: [IOTOPS](https://datatracker.ietf.org/wg/iotops/) WG
+* Performance and Benchmarking related topics: [BPM](https://datatracker.ietf.org/wg/bpm/)
+* Other Operations related topics: [OPSAWG](https://datatracker.ietf.org/wg/opsawg/)
+* Routing area: [RTGWG](https://datatracker.ietf.org/wg/rtgwg/) WG
+* Transport aspects of the WIT area: [TSVWG](https://datatracker.ietf.org/wg/tsvwg/).
+* Applications and Real Time (ART), Security (SEC), and non-transport: [DISPATCH](https://datatracker.ietf.org/wg/dispatch/about/) WG 
