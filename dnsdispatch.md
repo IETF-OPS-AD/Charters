@@ -38,9 +38,9 @@ Other IETF areas and IETF-maintained technologies (see below) may have their own
 
 The DNS directorate is a resource available to the DNSDISPATCH working group, just as it is available to other working groups.
 
-# Other IETF DISPATCH Homes
+# Other IETF DISPATCH WGs
 
-Dispatch functions for other IETF areas and technologies are handled by the following WG:
+Dispatch functions for other IETF areas and technologies are handled by the following WGs:
 
 * General area: [GENDISPATCH](https://datatracker.ietf.org/wg/gendispatch/) WG
 * Internet of Things (ToT) topics: [IOTOPS](https://datatracker.ietf.org/wg/iotops/) WG
