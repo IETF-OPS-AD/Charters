@@ -4,13 +4,13 @@
 
 DNS-related I-Ds that don't have an obvious WG which could adopt them can be submitted to the DNSOP WG for consideration. The DNSOP WG will advise whether to progress (or not) these I-Ds and will recommend a way to progress a proposal as appropriate. For instance, DNSOP may suggest the most suitable WG or recommend the chartering of a new WG.
 
-The DNSDISPATCH dispatch decisions cannot result in automatic adoption.
+The DNSDISPATCH dispatch decisions can result neither in automatic adoption nor WG creation.
 
 DNSDISPATCH should decline to provide a recommendation for documents that are not within scope.
 
 ## Venue
 
-DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the process can be run using dedicated virtual interims or via the mailing list. The actual mode used for a given proposal is left to the DNSOP WG Chairs.
+DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the process can be run using dedicated virtual interims. The actual mode used for a given proposal is left to the DNSOP WG Chairs.
 
 ## Prerequisites
 
@@ -36,4 +36,4 @@ DNSDISPATCH is traditionally held during plenary DNSOP sessions. However, the pr
 
 Other IETF areas and IETF-maintained technologies may have their own process for considering new work. While DNSOP is the main DISPATCH home for new DNS-related proposals, some of these proposals may involve other technologies that falls under areas/groups. DNSOP Chairs will coordinate and liaise with these areas/groups when processing such proposals.
 
-The DNS directorate is a resource available to the DNSDISPATCH working group, just as it is available to other working groups.
+The DNS directorate is a resource available to the DNSDISPATCH Chairs, just as it is available to other working groups Chairs.
