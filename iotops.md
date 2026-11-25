@@ -10,14 +10,14 @@ The IOTOPS working group focuses on devices that:
 * have a very limited end-user interface or no end-user interface at all, and
 * are deployed in sufficiently large numbers that they cannot easily be managed or maintained manually.
 
-The IETF defines a number of standards related to IoT, including, but not limited to, work produced by the ACE, ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SCHC, SUIT, TEEP, and 6LO working groups, among others.
+The IETF defines a number of standards related to IoT, including, but not limited to, work produced by the ACE, ANIMA, CBOR, CORE, DRIP, LAKE, LAMPS, ROLL, SCHC, SUIT, TEEP, and 6LO working groups, among others.
 
 IOTOPS serves as a forum to discuss how these various IoT-related technologies interoperate and align. Specifically, IOTOPS
 provides IoT practitioners, operators, and other interested parties to engage in discussions around the operational requirements of IoT deployments. IOTOPS also explores emerging use cases and deployment models that may benefit from IP-based technologies in the context of IoT devices and networks.
 
 Likewise, IOTOPS welcomes presentations from IoT operators, including service providers, enterprises, and other organizations deploying or managing large-scale IoT systems, who wish to share operational experience, challenges, and lessons learned, as well as other work within scope for the working group.
 
-Revision, updates, and extensions to work from existing WGs will be done in those WGs.
+Revision, updates, and extensions to work from active WGs will be done in those WGs. IOTOPS maintains BRSKI, GRASP from ANIMA.
 
 Where other new work may be needed, IOTOPS will help identify candidate venues within the IETF for their development.
 
@@ -25,9 +25,12 @@ Where other new work may be needed, IOTOPS will help identify candidate venues w
 
 IOTOPS is chartered with the following scope:
 
-* Standards Track and BCP Documents:
+* Standards Track, BCP and Informational Documents:
 
      - Manufacturer Usage Description (MUD) solutions
+     - Bootstrapping Remote Secure Key Infrastructure (BRSKI) solutions
+     - GeneRic Autonomic Signaling Protocol (GRASP) solutions
+     - IoT operational security (e.g.: guidance, certificate use)
      - Configuration backup and recovery solutions
      - Software/firmware upgrade solutions, focusing on discovery and distribution
 
@@ -45,5 +48,4 @@ IOTOPS is chartered with the following scope:
         + Remediation of broken devices
         + End of life management of devices
 
-    - Taking input and discussing issues related to IoT operational security.
     - Publishing operational practices and guidance.
